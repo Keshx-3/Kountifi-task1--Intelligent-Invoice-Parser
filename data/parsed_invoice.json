@@ -1,0 +1,9 @@
+{
+    "invoice_number": null,
+    "vendor": null,
+    "total": null,
+    "date": "05/01/2025",
+    "due_date": "05/15/2025",
+    "line_items": null,
+    "artifact_id": "02024bc0-991e-4a63-bd27-8c2ca7a88138"
+}
